@@ -1,6 +1,6 @@
 
 Connect App
-https://connect-seven-beige.vercel.app/
+https://connect-app-iota-sooty.vercel.app/
 
  NOTES APP
  https://note-app-jade-eight.vercel.app/
